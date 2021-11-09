@@ -1,1 +1,3 @@
-# demo_repository
+# Demo repository
+
+This is some test text.
